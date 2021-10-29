@@ -1,2 +1,2 @@
-# kr-ta_desktop
+# kreta_desktop
 Asztali KRÉTA alkalmazás, Pythonban írva.
